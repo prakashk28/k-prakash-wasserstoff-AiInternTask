@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+PyPDF2
+streamlit
+langchain_groq
+keybert
+pymongo
+rake-nltk
+nltk
